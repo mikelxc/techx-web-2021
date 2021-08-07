@@ -4,6 +4,7 @@
   "description": "React intro playground",
   "main": "app.js",
   "scripts": {
+    "git-update": "git add .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
